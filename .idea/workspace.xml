@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1a5c0a2-5b06-4e0c-aeeb-08259d800407" name="Default Changelist" comment="" />
+    <list default="true" id="a1a5c0a2-5b06-4e0c-aeeb-08259d800407" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/keiwen_git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,9 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -46,36 +57,10 @@
       <recent name="H:\ENGINEERING\WORKINGSPACE\2020-6-16_IDEA_WORK\keiwen\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectFileUi">
-    <configuration name="DemoConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tanzi.keiwen.configrion.DemoConfig" />
-      <module name="keiwen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tanzi.keiwen.configrion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainAppFx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tanzi.keiwen.javafx.MainAppFx" />
-      <module name="keiwen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tanzi.keiwen.javafx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="SelectFileUi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tanzi.selectFileUi.SelectFileUi" />
-      <module name="keiwen" />
+      <module name="keiwen_git" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tanzi.selectFileUi.*" />
@@ -89,8 +74,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SelectFileUi" />
-        <item itemvalue="Application.MainAppFx" />
-        <item itemvalue="Application.DemoConfig" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +92,8 @@
       <workItem from="1592290235667" duration="2271000" />
       <workItem from="1592293493373" duration="3815000" />
       <workItem from="1592362579627" duration="741000" />
+      <workItem from="1592533243603" duration="170000" />
+      <workItem from="1592968564368" duration="724000" />
     </task>
     <servers />
   </component>
@@ -120,10 +105,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="552" y="213" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1592362842375" />
-    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592291098134">
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592968590536">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592291098134" />
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592968590536" />
     <state x="765" y="270" key="#com.intellij.ide.util.MemberChooser" timestamp="1592293574845">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -140,38 +125,46 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592290366473" />
+    <state x="487" y="148" key="CommitChangelistDialog2" timestamp="1592968760237">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="487" y="148" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1592968760237" />
     <state width="421" height="466" key="DebuggerActiveHint" timestamp="1592291375342">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="421" height="466" key="DebuggerActiveHint/0.30.1920.1050@0.30.1920.1050" timestamp="1592291375342" />
-    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1592297252115">
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1592969205210">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1592297252115" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1592363321658">
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1592969205210" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1592969362658">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592363321658" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1592363321658">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592969362658" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1592969362658">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592363321658" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1592363321658">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592969362658" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1592969362658">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592363321658" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1592363321658">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592969362658" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1592969362783">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592363321658" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592969362783" />
     <state x="490" y="209" key="Maven.ArtifactSearchDialog" timestamp="1592288192212">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="490" y="209" key="Maven.ArtifactSearchDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592288192212" />
-    <state x="461" y="196" key="SettingsEditor" timestamp="1592297255354">
+    <state x="600" y="252" key="NewModule_or_Project.wizard" timestamp="1592969207563">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="461" y="196" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1592297255354" />
+    <state x="600" y="252" key="NewModule_or_Project.wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1592969207563" />
+    <state x="461" y="196" key="SettingsEditor" timestamp="1592533347802">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="196" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1592533347802" />
     <state x="334" y="249" key="new project wizard" timestamp="1592297311790">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -183,5 +176,10 @@
         <watch expression="cus" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/keiwen_git$SelectFileUi.ic" NAME="SelectFileUi Coverage Results" MODIFIED="1592969360295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tanzi.selectFileUi.*</FILTER>
+    </SUITE>
   </component>
 </project>
