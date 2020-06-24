@@ -12,3 +12,12 @@ src/test/
 out
 gen
 !/.idea/
+!/.idea/vcs.xml
+!/.idea/$CACHE_FILE$
+!/.idea/keiwen_git.iml
+!/.idea/workspace.xml
+!/.idea/
+!/.idea/uiDesigner.xml
+!/.idea/misc.xml
+!/.idea/modules.xml
+!/.idea/compiler.xml
