@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1a5c0a2-5b06-4e0c-aeeb-08259d800407" name="Default Changelist" comment="提交">
+    <list default="true" id="a1a5c0a2-5b06-4e0c-aeeb-08259d800407" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +10,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -43,7 +45,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -90,6 +92,7 @@
       <workItem from="1592362579627" duration="741000" />
       <workItem from="1592533243603" duration="170000" />
       <workItem from="1592968564368" duration="1841000" />
+      <workItem from="1592971047872" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1592969425943</created>
@@ -144,8 +147,9 @@
       <list>
         <option value="0" />
         <option value="2" />
-        <option value="3" />
         <option value="1" />
+        <option value="3" />
+        <option value="4" />
       </list>
     </option>
   </component>
@@ -226,22 +230,22 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1592969205210" />
-    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1592969532702">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1592970944367">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592969532702" />
-    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1592969532701">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592970944367" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1592970944366">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592969532701" />
-    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1592969532701">
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592970944366" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1592970944366">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592969532701" />
-    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1592969532701">
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592970944366" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1592970944367">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592969532701" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592970944367" />
     <state x="490" y="209" key="Maven.ArtifactSearchDialog" timestamp="1592288192212">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -250,10 +254,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="600" y="252" key="NewModule_or_Project.wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1592969207563" />
-    <state x="461" y="196" key="SettingsEditor" timestamp="1592533347802">
+    <state x="461" y="196" key="SettingsEditor" timestamp="1592971033245">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="461" y="196" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1592533347802" />
+    <state x="461" y="196" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1592971033245" />
     <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1592970217077">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
